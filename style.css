@@ -1,0 +1,14 @@
+body {
+	background-color: #3C3933;
+}
+
+
+.jumbotron{
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	background: url("http://sf.co.ua/16/03/wallpaper-1063.jpg");
+	background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 15px;
+}
